@@ -1,4 +1,4 @@
-ef5ff1fe3edb8b19fdbe54892cee8e68 *DESCRIPTION
+80ae7abc32b467a56b46c5fea3429781 *DESCRIPTION
 7da29cc979c9912ccdc354ff29bfbb1e *NAMESPACE
 861def03fd7d77f5df79b0af9d5b1ccc *R/ReturnCurves-package.R
 81f826a86d5172fb2380a61d0c5f8a4b *R/adf_est.R
@@ -16,16 +16,15 @@ fc67da9bf19b941c0bf6d5a70ecbd549 *R/marginal_transform.R
 549d0ca0cbe530c4726f44c55d45cf8d *R/rc_gof.R
 f7675c3bee44da5cd5a6a6ba25c1c0e0 *R/rc_uncertainty.R
 7ca4a549491a0526f77c1f1d829b05d2 *R/runShiny.R
-d1082e98de8d4b9785907db95c8fd6ac *README.md
-3058a5cee08fddf687e6663daf5dddb0 *build/ReturnCurves.pdf
-8bbbe1bf8757e87ea5ae0f541690010f *build/partial.rdb
-970308025ff6f49a88dc61f9f8fad937 *build/stage23.rdb
-ccc5cb51cb6cc6279650e03d374913e7 *build/vignette.rds
+cae77ccdecc79c9bddd53548fbaf4b90 *README.md
+d1048dbcfdbe77e412414ecb146e5265 *build/partial.rdb
+749d3f4212651452d8af630a2f21e361 *build/stage23.rdb
+ae35447d2de8316ea41c17a39c39c4d0 *build/vignette.rds
 7aa3af564960ac2324b1f216add9ce9a *data/airdata.rda
 d17315dd52c9786dfe428824b0ec1e22 *inst/REFERENCES.bib
 0ac37a31e1164ac08c45bd061a4d8740 *inst/doc/ReturnCurves.R
 bb474f3f4cccc73180af6613c99a0306 *inst/doc/ReturnCurves.Rmd
-4b7a2a0f2b6551bc826e5f689eceedae *inst/doc/ReturnCurves.pdf
+c76c382bcbbfc3d3ee2fb2dd8d396157 *inst/doc/ReturnCurves.pdf
 16001ffff2237c89d05bd7b4d772775f *inst/shiny-examples/shinyapp/app.R
 3e0b9da09baf04e94e5988f32cb3898c *inst/shiny-examples/shinyapp/plot_adf.R
 60935fd7f382a525ce22fea8fba2fb35 *inst/shiny-examples/shinyapp/plot_rc.R
